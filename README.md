@@ -9,4 +9,4 @@
 
 :ledger: - Complementar à faculdade, estou focado em desenvolver aplicações web para aprofundar os conhecimentos em JavaScript e suas respectivas stack's.
 
-:e-mail: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com. Não costumo postar fotos com frequência, mas meu instagram é [esse](https://www.instagram.com/mateus.ntc/).
+:e-mail: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com. Por fim, não costumo postar fotos com frequência, mas meu instagram é [esse](https://www.instagram.com/mateus.ntc/).
