@@ -7,6 +7,4 @@
 
 :man_student: - Atualmente faço Bacharelado em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP).
 
-:ledger: - Complementar à faculdade, estou focado em desenvolver aplicações web para aprofundar os conhecimentos em JavaScript e suas respectivas stack's.
-
 :e-mail: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com.
