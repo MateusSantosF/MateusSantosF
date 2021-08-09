@@ -9,4 +9,4 @@
 
 :technologist: - Atuando como programador Full Stack no programa IF + Empreendedor Nacional no projeto Belo Salão. [Clique aqui para mais informações.](https://www.sbv.ifsp.edu.br/component/content/article/67-noticias-publicadas/pagina-inicial/comunicados/1023-programa-if-empreendedor-nacional-seleciona-projeto-em-s%C3%A3o-jo%C3%A3o-da-boa-vista)
 
-:e-mail: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com.
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com.
