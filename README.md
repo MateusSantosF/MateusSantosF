@@ -16,7 +16,6 @@
 	<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-	<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </h2>
 <h2>Sobre mim</h2>
 <h4>Me chamo Mateus e tenho 19 anos. Iniciei meus estudos em programação em 2018 com o curso de Técnico em Informática na ETEC Itaquera. Em 2019, decorrente do apreço pela programação Web cursei Técnico em Informática para Internet na ETEC Parque Belém.</h4>	
