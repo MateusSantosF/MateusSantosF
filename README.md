@@ -4,7 +4,7 @@
 -->
 <div>
 <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=MateusSantosF&count_private=true&show_icons=true&theme=dracula"/>
-<img height = "160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=8&theme=dracula"/>
+<img height = "160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <h3>Tecnologias Conhecidas</h3> 
 <h2>
