@@ -26,6 +26,7 @@
 
 :email: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com.
 
-:briefcase: -[Linkedin](https://br.linkedin.com/in/mateusferreira-dev)
+
+:briefcase: -[Linkedin](https://br.linkedin.com/in/mateusferreira-dev) | [lattes](http://lattes.cnpq.br/7441050996903214)
 
 
