@@ -19,4 +19,11 @@
 
 :briefcase: -[Linkedin](https://br.linkedin.com/in/mateusferreira-dev) | [lattes](http://lattes.cnpq.br/7441050996903214)
 
+<div align="center"> 
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MateusSantosF/count.svg" />
+ </p>
+
+</div>
