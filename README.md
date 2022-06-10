@@ -3,8 +3,8 @@
 **MateusSantosF/MateusSantosF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
-<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=MateusSantosF&count_private=true&show_icons=true"/>
-<img height = "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=6"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=MateusSantosF&count_private=true&show_icons=true&theme=github_dark"/>
+<img height = "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
 <h2>Sobre mim</h2>
