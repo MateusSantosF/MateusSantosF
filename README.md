@@ -12,7 +12,7 @@
 
 :man_student: - Atualmente faço Bacharelado em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP). 
 
-:man_technologist: - Atualmente trabalho com muito orgulho na <b>Take Blip</b>, como desenvolvedor de Chatbots
+:man_technologist: - Atualmente trabalho com muito orgulho na <b>Take Blip</b> no cargo de Intern Chatbot Developer
 
 :technologist: - Atuei como programador Full Stack Java no programa IF + Empreendedor Nacional no projeto Belo Salão. [Clique aqui para mais informações.](https://www.sbv.ifsp.edu.br/component/content/article/67-noticias-publicadas/pagina-inicial/comunicados/1023-programa-if-empreendedor-nacional-seleciona-projeto-em-s%C3%A3o-jo%C3%A3o-da-boa-vista)  
 
