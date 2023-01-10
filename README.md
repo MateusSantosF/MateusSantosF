@@ -10,7 +10,7 @@
 <h2>Sobre mim</h2>
 <h5>Olá! Me chamo Mateus e tenho 20 anos. Iniciei meus estudos em programação em 2018 com o curso de Técnico em Informática na ETEC Itaquera. Em 2019, decorrente do apreço pela programação Web cursei Técnico em Informática para Internet na ETEC Parque Belém.</h5>	
 
-:man_student: - Atualmente faço Bacharelado em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP). 
+:man_student: - Curso Bacharelado em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP). 
 
 :man_technologist: - Atualmente trabalho com muito orgulho na <b>Take Blip</b> no cargo de Intern Chatbot Developer
 
