@@ -4,7 +4,7 @@
 -->
 <div align="center">
 <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=MateusSantosF&count_private=true&show_icons=true&theme=github_dark"/>
-<img height = "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=8&theme=github_dark&exclude_repo=projetoBeloSalao&hide=html"/>
+<img height = "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=8&theme=github_dark&exclude_repo=projetoBeloSalao&JLotteryScheduling&hide=html"/>
 </div>
 
 <h2>Sobre mim</h2>
