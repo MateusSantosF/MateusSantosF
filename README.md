@@ -1,31 +1,21 @@
+<h1 align="center">Olá 👋, me chamo Mateus</h1>
+<h3 align="center">Sou um entusiasta da programação e apaixonado por tecnologia.</h3>
 
-<!--
-**MateusSantosF/MateusSantosF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<div align="center">
-<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=MateusSantosF&count_private=true&show_icons=true&theme=github_dark"/>
-<img height = "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSantosF&layout=compact&langs_count=8&theme=github_dark&exclude_repo=projetoBeloSalao&JLotteryScheduling&hide=html"/>
-</div>
-
-<h2>Sobre mim</h2>
-<h5>Olá! Me chamo Mateus e tenho 20 anos. Iniciei meus estudos em programação em 2018 com o curso de Técnico em Informática na ETEC Itaquera. Em 2019, decorrente do apreço pela programação Web cursei Técnico em Informática para Internet na ETEC Parque Belém.</h5>	
-
-:man_student: - Curso Bacharelado em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP). 
-
-:man_technologist: - Atualmente trabalho com muito orgulho na <b>Take Blip</b> no cargo de Intern Chatbot Developer
-
-:technologist: - Atuei como programador Full Stack Java no programa IF + Empreendedor Nacional no projeto Belo Salão. [Clique aqui para mais informações.](https://www.sbv.ifsp.edu.br/component/content/article/67-noticias-publicadas/pagina-inicial/comunicados/1023-programa-if-empreendedor-nacional-seleciona-projeto-em-s%C3%A3o-jo%C3%A3o-da-boa-vista)  
-
-:email: - Caso queira entrar em contato comigo, sinta-se a vontade para mandar um e-mail para mateusferreira.dev@gmail.com.
+<p>
 
 
-:briefcase: -[Linkedin](https://br.linkedin.com/in/mateusferreira-dev) | [lattes](http://lattes.cnpq.br/7441050996903214)
+Atualmente, estou estudando Ciência da Computação no Instituto Federal de São Paulo (IFSP) e trabalho como Intern Chatbot Developer na empresa Take Blip. Iniciei minha jornada na programação em 2018, com os cursos de técnico em Informática e Técnico em Informática para Internet pela ETEC. Desde então, venho expandindo meus conhecimentos em tecnologias como C#, ASP .NET, Java com SpringBoot, React, JavaScript e TypeScript. Além disso, tenho desenvolvido cada vez mais minhas habilidades em Docker, Kubernetes e na realização de testes unitários.
 
-<div align="center" > 
+Estou sempre em busca de novos aprendizados e oportunidades para contribuir com soluções inovadoras e desafiadoras. Acredito que quando me desafio, é quando chego mais longe, e posso ser mais do que sou hoje. Se você quiser entrar em contato comigo, fique à vontade para me enviar um e-mail, responderei o mais breve possível.
+</p>
 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/MateusSantosF/count.svg" />
- </p>
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mateusferreira-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusferreira-dev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
