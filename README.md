@@ -17,9 +17,8 @@ Estou sempre em busca de novos aprendizados e oportunidades para contribuir com 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=linux,azure,react,vite,js,ts,java,spring,cs,dotnet,css,html,git,github,docker,mysql)](https://skillicons.dev)
-</div>
+<h3 align="left">Ferramentas e linguagens</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=linux,azure,react,vite,js,ts,java,spring,cs,dotnet,css,html,docker,mysql)](https://skillicons.dev)
+<div align="left"> 
 
