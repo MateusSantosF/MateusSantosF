@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Mateus</h1>
-<h3 align="center">Sou um entusiasta da programação e apaixonado por tecnologia.</h3>
+<h3 align="center">Sou estudante de Ciência da Computação e Apaixonado por tecnologia.</h3>
 
 <p>
 
