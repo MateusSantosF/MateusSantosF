@@ -12,6 +12,6 @@ Estudante de Ciência da Computação pelo Instituto Federal de São Paulo (IFSP
 
 <h3 align="left">Ferramentas e linguagens</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,linux,azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,nodejs,nextjs,fastapi,mongodb,linux,azure,docker)](https://skillicons.dev)
 <div align="left"> 
 
