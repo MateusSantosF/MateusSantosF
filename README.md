@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Mateus</h1>
 
-<p>
-Estudante de Ciência da Computação pelo Instituto Federal de São Paulo (IFSP) e .NET Fullstack Developer Mid-Level na BNP Soluções. Comunicador eficaz, aprendiz ágil e organizado. Interessado em desenvolvimento de soluções inovadoras e arquitetura de software.
-</p>
+Desenvolvedor **Pleno Fullstack .NET** com experiência em **Next.js, TypeScript, Node.js, Python**, e uma gama de ferramentas Azure, focado na construção de soluções robustas e eficientes para a web. Possuo uma sólida formação em **Ciência da Computação** e tenho um histórico de sucesso no desenvolvimento de **APIs REST, Websites com foco em acessibilidade e observabilidade**, além de **chatbots**.
 
 
 <h3 align="left">Conecte-se comigo!</h3>
