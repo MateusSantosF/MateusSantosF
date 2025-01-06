@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Mateus</h1>
 
-Atuo como **Líder Técnico** e Desenvolvedor na BNP Soluções em TI, liderando projetos estratégicos que combinam tecnologia, inovação e impacto no setor cultural do **Estado de São Paulo**. Minha experiência une liderança técnica e prática no desenvolvimento de sistemas escaláveis e soluções de inteligência artificial.
+Atuo como **Líder Técnico** na BNP Soluções em TI, liderando projetos estratégicos que combinam tecnologia, inovação e impacto no setor cultural do **Estado de São Paulo**. Minha experiência une liderança técnica e prática no desenvolvimento de sistemas escaláveis e soluções de inteligência artificial.
 
 🎯 Minhas principais contribuições incluem:
 -  Liderança Técnica: Coordeno equipes para adoção de boas práticas, entregas estratégicas e fortalecimento da cultura de aprendizado contínuo.
