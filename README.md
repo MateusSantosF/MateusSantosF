@@ -14,3 +14,9 @@ Alguns temas que fazem parte da minha rotina:
 - Observabilidade, métricas e melhoria contínua
 
 Sou movido por desafios e por construir soluções que nasceram para ser usadas de verdade – por pessoas, equipes e organizações que dependem delas no dia a dia.
+
+## Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/mateusferreira-dev](https://www.linkedin.com/in/mateusferreira-dev)
+- Portfólio: [mateusferreira.me](https://www.mateusferreira.me)
+- E-mail: mateusferreira.dev@gmail.com
