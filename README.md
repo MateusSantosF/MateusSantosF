@@ -1,26 +1,16 @@
-<h1 align="center">Olá 👋, me chamo Mateus</h1>
+<h1 align="left">Olá! me chamo Mateus</h1>
 
-Atuo como **Líder Técnico** na BNP Soluções em TI, liderando projetos estratégicos que combinam tecnologia, inovação e impacto no setor cultural do **Estado de São Paulo**. Minha experiência une liderança técnica e prática no desenvolvimento de sistemas escaláveis e soluções de inteligência artificial.
+Sou Tech Lead e desenvolvedor full stack na BNP Soluções em TI, atuando principalmente em projetos para o setor público e cultural do Estado de São Paulo. Gosto de estar onde tecnologia, negócio e impacto social se encontram.
 
-🎯 Minhas principais contribuições incluem:
--  Liderança Técnica: Coordeno equipes para adoção de boas práticas, entregas estratégicas e fortalecimento da cultura de aprendizado contínuo.
-- Code Reviews e Mentoria: Realizo revisões de código detalhadas e capacito desenvolvedores para elevar a qualidade técnica dos projetos.
-- Tradução de Requisitos: Transformo demandas de negócios em soluções tecnológicas intuitivas e escaláveis.
-- Desenvolvimento de Sistemas: Experiência com tecnologias modernas como Next.js, C# (.NET), Azure Functions, FastAPI, MongoDB e TypeScript.
-- Inteligência Artificial: Desenvolvimento de chatbots com IA integrados a dados geolocalizados e ferramentas como Azure Cognitive Search, otimizando processos e melhorando experiências.
-- Métricas Avançadas: Implementação de análises com Google Analytics e Clarity, gerando insights valiosos sobre uso e comportamento.
-- Projetos Internos: Liderança em iniciativas para melhorias internas da empresa
+No dia a dia, lidero times e projetos que envolvem desde o desenho de arquitetura até a entrega em produção, com foco em qualidade, segurança e escalabilidade. Trabalho com .NET, TypeScript, Next.js, React, Python, MongoDB, SQL Server, MySQL e uma stack forte em Azure (AKS, App Services, Functions, Cognitive Search, observabilidade e CI/CD).
 
-Sou movido por desafios e inovação contínua. Meu foco está em criar soluções que conectem pessoas e negócios de forma eficiente e transformadora. 🚀
+Tive a oportunidade de liderar tecnicamente plataformas como o Agenda Viva SP – que conecta cidadãos à agenda cultural do Estado – e de ser responsável por chatbots inteligentes para o Portal da Cultura, FASEPRO (maior sistema de editais do Estado) e outros clientes. Nesses projetos, integrei IA generativa, RAG e dados de negócio para reduzir esforço de suporte e melhorar a experiência dos usuários.
 
+Alguns temas que fazem parte da minha rotina:
 
-<h3 align="left">Conecte-se comigo!</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mateusferreira-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusferreira-dev" height="30" width="40" /></a>
-</p>
+- Liderança técnica, mentoria e code review
+- Arquitetura de sistemas web modernos (front, back, dados e nuvem)
+- Integração de IA com aplicações reais (chatbots, busca semântica, recomendações)
+- Observabilidade, métricas e melhoria contínua
 
-<h3 align="left">Ferramentas e linguagens</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,nodejs,nextjs,fastapi,mongodb,linux,azure,docker)](https://skillicons.dev)
-<div align="left"> 
-
+Sou movido por desafios e por construir soluções que nasceram para ser usadas de verdade – por pessoas, equipes e organizações que dependem delas no dia a dia.
